@@ -1,0 +1,5 @@
+cp /
+cp /etc/group ~/konstantinova/1
+cp /etc/group ~/konstantinova/1/2
+cp /etc/group ~/konstantinova/1/3
+cp /etc/group ~/konstantinova/4
