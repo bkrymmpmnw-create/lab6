@@ -1,0 +1,3 @@
+ls -l /sbin/ | sort -k9
+
+find /sbin -type f -size +25k 2>/dev/null 
